@@ -1,9 +1,9 @@
-package com.productstore.beststore.controllers;
+package com.productstore.InfoStoreAplication.controllers;
 
 
-import com.productstore.beststore.models.Product;
-import com.productstore.beststore.models.ProductDto;
-import com.productstore.beststore.services.ProductsRepository;
+import com.productstore.InfoStoreAplication.models.Product;
+import com.productstore.InfoStoreAplication.models.ProductDto;
+import com.productstore.InfoStoreAplication.services.ProductsRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;

@@ -1,4 +1,4 @@
-package com.productstore.beststore;
+package com.productstore.InfoStoreAplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

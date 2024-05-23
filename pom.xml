@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.productstore</groupId>
-	<artifactId>beststore</artifactId>
+	<artifactId>infostore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<nome>beststore</nome>
-	<descricao>Demo project for Spring Boot</descricao>
+	<name>infostore</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>22</java.version>
 	</properties>

@@ -1,4 +1,4 @@
-package com.productstore.beststore.models;
+package com.productstore.InfoStoreAplication.models;
 
 import jakarta.validation.constraints.*;
 import org.springframework.web.multipart.MultipartFile;
